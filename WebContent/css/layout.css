@@ -1,0 +1,87 @@
+	
+	
+	#jb-container {
+        width: 940px;
+        margin: 0px auto;
+        padding: 20px;
+        border: 1px solid #bcbcbc;
+        
+      }
+      #jb-header {
+        padding: 20px;
+        margin-bottom: 20px;
+        border: 1px solid #bcbcbc;
+        text-align:center;
+        vertical-align:bottom;
+         
+      }
+      #jb-content {
+        width: 700px;
+        padding: 20px;
+        margin-bottom: 20px;
+        float: right;
+        border: 1px solid #bcbcbc;
+      }
+      #jb-sidebar {
+        width: 150px;
+        padding: 20px;
+        margin-bottom: 20px;
+        float: left;
+        border: 1px solid #bcbcbc;
+      }
+      #jb-footer {
+        clear: both;
+        padding: 20px;
+        border: 1px solid #bcbcbc;
+      }
+      
+       .mtable {
+      	width:600px;
+      	border:1px solid #555555;
+      	border-collapse:collapse;
+      	
+      }
+      
+      .mtd {
+      	font-family:맑은고딕;
+        font-size:14px;
+      	border:1px solid #555555;
+      	padding: 5px;
+      	line-height:2.0;
+      }
+      
+      .textBox1 {
+      	width:150px;	
+      	font-family:맑은고딕;
+        font-size:14px;
+      	
+      }
+      
+      .button1 {
+      	width:70px;
+      	font-family:맑은고딕;
+        font-size:13px;
+      	
+      }
+      
+      .table1 {
+      	width:600px;
+      	border:1px solid #555555;
+      	border-collapse:collapse;
+      }
+      
+      .td1{
+      	border:1px solid #555555;
+      	padding:5px;
+      	text-align:center;
+      }
+      
+      body {
+      	font-size:13px;
+      	font-family:맑은 고딕;
+      	color:#333333;
+      }
+	
+	  a {
+	  	text-decoration:none;
+	  }
